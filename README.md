@@ -1,52 +1,55 @@
-# CS23C02 IND 2025 - Python Programming Exercises
+# Python Programming Exercises
 
-This repository contains my solutions for the Python programming exercises for **CS23C02 IND 2025**.
+This repository contains solutions for the Python programming exercises for **CS23C02 IND 2025**.
 
 ## Exercises
 
 ### Ex 1 - Simple Program Design
 **Description:** Basic programs to understand Python syntax, input/output, and simple operations.  
-**File:** `Ex1_SimpleProgramDesign.py`
+**File:** `Ex_1_Simple_Program_Design.ipynb`
 
 ### Ex 2 - More Program Design
 **Description:** Programs focusing on more complex logic and design principles.  
-**File:** `Ex2_MoreProgramDesign.py`
+**File:** `Ex_2_More_Program_Design.ipynb`
 
 ### Ex 3 - Input, Output and Expressions
 **Description:** Exercises to practice reading inputs, displaying outputs, and evaluating expressions in Python.  
-**File:** `Ex3_InputOutputExpressions.py`
+**File:** `Ex_3_Input_Output_and_Expressions.ipynb`
 
 ### Ex 4 - Selection and Repetitive Control Statements
 **Description:** Programs implementing conditional statements (`if`, `elif`, `else`) and loops (`for`, `while`).  
-**File:** `Ex4_SelectionRepetition.py`
+**File:** `Ex_4_Selection_and_Repetitive_Control_Statements.ipynb`
 
 ### Ex 5 - Loops and Patterns
 **Description:** Exercises on loop-based patterns, nested loops, and iterative solutions.  
-**File:** `Ex5_LoopsAndPatterns.py`
+**File:** `Ex_5_Loops_And_Patterns.ipynb`
 
 ### Ex 6 - Functions
 **Description:** Programs practicing defining and using functions, parameters, and return values.  
-**File:** `Ex6_Functions.py`
+**File:** `Ex_6_Functions.ipynb`
 
 ### Ex 7 - Recursive and Higher Order Functions
 **Description:** Exercises on recursion, recursive algorithms, and higher-order functions in Python.  
-**File:** `Ex7_RecursionHigherOrder.py`
+**File:** `Ex_7_Recursion_Higher_Order.ipynb`
 
 ---
 
 ## Usage
-1. Clone this repository:  
+
+1. Clone this repository:
    ```bash
-   git clone <repository-url>
-Navigate to the folder:
+   git clone https://github.com/Anbuselvi26/Python-Programming.git
+   ```
 
-bash
-Copy code
-cd <repository-folder>
-Run any exercise Python file using:
+2. Navigate to the repository folder:
 
-bash
-Copy code
-python <filename>.py
-Author
-Your Name
+   ```bash
+   cd Python-Programming
+   ```
+
+3. Run any exercise Python file using:
+
+   ```bash
+   python <filename>.py
+   ```
+
