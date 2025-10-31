@@ -1,6 +1,6 @@
 # Python Programming Exercises
 
-This repository contains solutions for the Python programming exercises for **CS23C02 IND 2025**.
+This repository contains solutions for the Python programming exercises.
 
 ## Exercises
 
