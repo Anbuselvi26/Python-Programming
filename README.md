@@ -32,6 +32,9 @@ This repository contains solutions for the Python programming exercises.
 **Description:** Exercises on recursion, recursive algorithms, and higher-order functions in Python.  
 **File:** `Ex_7_Recursion_Higher_Order.ipynb`
 
+### Ex 8 - Generator, Lambda and Higher Order Functions
+**Description:** Exercises focusing on Python generator functions, lambda expressions, and higher-order functions.  
+**File:** `Ex_8_Generator_Lambda_and_Higher_Order_Functions.ipynb`
 ---
 
 ## Usage
